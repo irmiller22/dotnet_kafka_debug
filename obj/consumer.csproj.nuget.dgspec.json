@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ianmiller/Development/personal/debug-kafka-connection/consumer.csproj": {}
+  },
+  "projects": {
+    "/Users/ianmiller/Development/personal/debug-kafka-connection/consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ianmiller/Development/personal/debug-kafka-connection/consumer.csproj",
+        "projectName": "consumer",
+        "projectPath": "/Users/ianmiller/Development/personal/debug-kafka-connection/consumer.csproj",
+        "packagesPath": "/Users/ianmiller/.nuget/packages/",
+        "outputPath": "/Users/ianmiller/Development/personal/debug-kafka-connection/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ianmiller/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Ini": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet/5.0.207/libexec/sdk/5.0.207/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

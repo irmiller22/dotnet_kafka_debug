@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wadEQvcXEnVyr3dqDINXz9c8xAOH+6pkcXVzBOpp89xUqBCUa61+/byJY7g8iYRWBONSX0G9cCTOFBmNmb9S6A==",
+  "success": true,
+  "projectFilePath": "/Users/ianmiller/Development/personal/debug-kafka-connection/consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/ianmiller/.nuget/packages/confluent.kafka/1.7.0/confluent.kafka.1.7.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/librdkafka.redist/1.7.0/librdkafka.redist.1.7.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.configuration.ini/5.0.0/microsoft.extensions.configuration.ini.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/ianmiller/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
